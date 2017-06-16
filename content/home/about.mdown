@@ -1,0 +1,44 @@
++++
+# About/Biography widget.
+
+date = "2017-06-14T00:00:00"
+draft = false
+
+widget = "about"
+
+# Order that this section will appear in.
+weight = 1
+
+# List your academic interests.
+[interests]
+  interests = [
+    "Problem solving",
+    "Genetics",
+    "Neuroscience",
+    "Behavior",
+  ]
+
+# List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "PhD in Genetics, Genomics, and Systems Biology"
+  institution = "University of Chicago"
+  year = 2017
+
+[[education.courses]]
+  course = "BSc in Genetics (Magna cum laude)"
+  institution = "University of Georgia, Athens"
+  year = 2010
+  
++++
+
+# Welcome!
+
+I recently completed a PhD in Genetics, Genomics, and Systems Biology
+at the <a href="https://www.uchicago.edu/">University of Chicago</a>. My advisor was <a href="https://biophysics.uchicago.edu/the-faculty/david_biron/"> Prof David Biron</a> in the Biophysics Program and the James Franck Institute. 
+
+My dissertation work revealed insight about the homeostatic regulation of <a href="https://xkcd.com/1345/">animal sleep</a> as well as lasting consequences of sleep loss 
+during early development using the relatively simple and well-characterized nematode, <a href="https://www.genetics.org/content/200/2/387/"> <i>Caenorhabditis elegans</i></a>, as a model system. 
+
+Here is a link to my <a href="https://www.dropbox.com/s/s872oyu5hz9cczo/CV.pdf?dl=0/">CV</a>. 
+
+
